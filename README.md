@@ -1,8 +1,8 @@
 # Olá, eu sou o Diogo Origotti! 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diogo_Origotti&show_icons=true&theme=radial&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo_Origotti&layout=compact&langs_count=7&theme=radial" alt="Top Langs" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Diogo-Dg7&show_icons=true&theme=radial&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-Dg7&layout=compact&langs_count=7&theme=radial" alt="Top Langs" height="180em" />
 </div>
 
 ### 🎯 Sobre Mim
@@ -44,5 +44,5 @@ Buscando sempre trocar conhecimentos, fazer networking e enfrentar novos desafio
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diogo_Origotti&theme=radial" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diogo-Dg7&theme=radial" alt="GitHub Streak" />
 </div>
