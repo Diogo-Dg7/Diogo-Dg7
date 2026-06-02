@@ -1,4 +1,4 @@
-# Olá, eu sou o Diogo Origotti! 👋
+# Diogo Origotti
 
 ### 🎯 Sobre Mim
 
