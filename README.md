@@ -1,10 +1,5 @@
 # Olá, eu sou o Diogo Origotti! 👋
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diogo-Dg7&show_icons=true&theme=radial&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-Dg7&layout=compact&langs_count=7&theme=radial" alt="Top Langs" height="180em" />
-</div>
-
 ### 🎯 Sobre Mim
 
 Sou um **Desenvolvedor Full-Stack** focado em criar soluções robustas e eficientes. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na **UCS** e finalizando o técnico em Desenvolvimento de Sistemas no **SENAI-RS**, onde também atuo profissionalmente como Jovem Aprendiz na área de desenvolvimento.
@@ -39,10 +34,4 @@ Buscando sempre trocar conhecimentos, fazer networking e enfrentar novos desafio
   <a href="mailto:diogorigonorigotti@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diogo-Dg7&theme=radial" alt="GitHub Streak" />
 </div>
