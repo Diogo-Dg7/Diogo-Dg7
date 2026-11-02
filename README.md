@@ -1,18 +1,18 @@
 # Diogo Origotti
 
-### 🎯 Sobre Mim
+### Sobre Mim
 
 Sou um **Desenvolvedor Full-Stack** focado em criar soluções robustas e eficientes. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na **UCS** e finalizando o técnico em Desenvolvimento de Sistemas no **SENAI-RS**, onde também atuo profissionalmente como Jovem Aprendiz na área de desenvolvimento.
 
 Tenho forte facilidade de comunicação, excelente adaptabilidade e uma grande fome de aprendizado, buscando sempre me manter atualizado com as novas tendências do mercado.
 
-- 🚀 Atualmente aprofundando meus conhecimentos em **React**.
-- 💡 Experiência com projetos integrados envolvendo **IoT (Internet das Coisas)**.
-- ⚡ Foco principal no ecossistema **.NET / C#** para o ecossistema Backend.
+-  Atualmente aprofundando meus conhecimentos em **React**.
+-  Experiência com projetos integrados envolvendo **IoT (Internet das Coisas)**.
+-  Foco principal no ecossistema **.NET / C#** para o ecossistema Backend.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 | Categoria | Tecnologias |
 | :--- | :--- |
@@ -23,7 +23,7 @@ Tenho forte facilidade de comunicação, excelente adaptabilidade e uma grande f
 
 ---
 
-### 📬 Vamos nos conectar?
+### Vamos nos conectar?
 
 Buscando sempre trocar conhecimentos, fazer networking e enfrentar novos desafios na área de tecnologia.
 
